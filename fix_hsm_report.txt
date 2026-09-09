@@ -1,0 +1,6 @@
+  Fixed 9x in HighScore.cpp
+  Fixed 5x in MainWindow.cpp
+  Fixed 3x in HighScore.h
+  Fixed 2x in MainWindow.h
+
+Total: 19 replacements

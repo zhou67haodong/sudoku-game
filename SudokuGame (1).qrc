@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/sounds">
+        <!-- 音效文件（wav），如不存在程序会自动静默降级 -->
+        <file alias="select.wav">resources/sounds/select.wav</file>
+        <file alias="fill.wav">resources/sounds/fill.wav</file>
+        <file alias="error.wav">resources/sounds/error.wav</file>
+        <file alias="hint.wav">resources/sounds/hint.wav</file>
+        <file alias="victory.wav">resources/sounds/victory.wav</file>
+        <file alias="bgm.wav">resources/sounds/bgm.wav</file>
+    </qresource>
+</RCC>
